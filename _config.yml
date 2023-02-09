@@ -6,17 +6,17 @@ lead: automatic tabulation system for hamradio contests, parallel computing fram
 desc: アマチュア無線のコンテスト運営システムから, 並列計算フレームワーク, プログラミング言語処理系, 機械学習まで, ソフトウェア科学の記事を公開.
 items:
 - name: ATS-4
-  href: /ats4
+  href: /ats4.html
 - name: 自作言語
-  href: /fava
+  href: /fava.html
 - name: 機械学習
-  href: /mine
+  href: /mine.html
 - name: 並列処理
-  href: /dusk
+  href: /dusk.html
 - name: 並列言語
-  href: /chpl
+  href: /chpl.html
 - name: ZyLO
-  href: /zylo
+  href: /zylo.html
 links:
 - name: Twitter
   href: https://twitter.com/nextzlog
