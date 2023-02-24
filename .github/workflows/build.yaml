@@ -58,11 +58,7 @@ jobs:
       with:
         path: pages
     - run: sudo apt install pdf2svg
-    - run: |
-        for f in *.pdf
-        do
-          pdf2svg $f "${f%.*}.%02d.svg" all
-        done
+    - run: pdf2svg zylo.pdf "zylo.%02d.svg" all
       working-directory:
         books
     - run: |
