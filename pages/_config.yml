@@ -1,6 +1,6 @@
 remote_theme: nextzlog/pafe
 url: https://book.nextzlog.dev
-name: 無線部の記事
+name: 無線部開発班の本
 icon: /assets/head.png
 lead: automatic tabulation system for hamradio contests, parallel computing framework, programming language processors, machine learning, etc.
 desc: アマチュア無線のコンテスト運営システムから, 並列計算フレームワーク, プログラミング言語処理系, 機械学習まで, ソフトウェア科学の記事を公開.
